@@ -11,13 +11,13 @@ import paquete1.ClaseUno;
 public class ChequeaNumeros {
 	
 	//ATRIBUTO
-	final int NUMERO_DE_ALEATORIO = 100; 
+	public final static int NUMERO_DE_ALEATORIO = 100; 
 	private int[] mi_array = new int[NUMERO_DE_ALEATORIO];
 	
 	
 	//CONSTRUCTOR
 	public ChequeaNumeros() {
-		
+		 
 		Random num_aleatorio = new Random();
 
 		for (int i = 0; i < mi_array.length; i++) {
