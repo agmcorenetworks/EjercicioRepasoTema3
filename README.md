@@ -11,7 +11,7 @@ Crear el paquete exceptions que contendrá las excepciones:
  - Menor75Exception  con el mensaje "el numero esta entre 50 y 75"
  - Menor100Exception  con el mensaje "el numero esta entre 75 y 100"
 
-En la clase Clase1 crear un metodo static chequeaExcepcionNumero que dado un numero lance la excepcion que le corresponde
+En la clase Clase1 crear un metodo static chequeaExcepcionNumero que dado un numero lance la excepcion que le corresponde, si ocurre que el numero es 25, 75 o 100 se imprimirá el mensaje "numero cuartil"
 
 En la clase ChequeaNumeros crear un metodo chequearNumeros que realize una interación sobre el array de numeros comprobando la excepción que le corresponde utilizando el metodo chequeaExcepcionNumero de la clase Clase1
 
