@@ -10,7 +10,7 @@ import paquete1.Clase1;
 public class ChequeaNumeros {
 	
 	
-	final int NUMERO_DE_ALEATORIO = 100;
+	public final static int NUMERO_DE_ALEATORIO = 100;
 	int[] miArray = new int[NUMERO_DE_ALEATORIO];
 	
 	
