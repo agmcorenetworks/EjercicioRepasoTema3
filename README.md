@@ -13,7 +13,7 @@ Crear el paquete exceptions que contendrá las excepciones:
 
 En la clase Clase1 crear un metodo static chequeaExcepcionNumero que dado un numero lance la excepcion que le corresponde
 
-En la clase Clase1 crear un metodo chequearNumeros que realize una interación sobre el array de numeros comprobando la excepción que le corresponde utilizando el metodo chequeaExcepcionNumero de la clase Clase1
+En la clase ChequeaNumeros crear un metodo chequearNumeros que realize una interación sobre el array de numeros comprobando la excepción que le corresponde utilizando el metodo chequeaExcepcionNumero de la clase Clase1
 
 
 
